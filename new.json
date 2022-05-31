@@ -1,8 +1,8 @@
 {
-   "firstName": "Ида",
-   "lastName": "Войткус",
-   "Patronymic": "Анатольевна",
+   "firstName": "Ida",
+   "lastName": "Voitkus",
+   "Patronymic": "Anatolyevna",
    "Age": "25",
-   "Number of pets": "1",
-   "Future desired salary": "500 у.е."
+   "Number_of_pets": "1",
+   "Future_desired_salary": "500 у.е."
 }
